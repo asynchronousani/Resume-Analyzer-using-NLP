@@ -112,7 +112,8 @@ python -m spacy download en_core_web_sm
 
 - Create a **MySQL Database** named ```cv```
 
-- Update your MySQL user credentials inside `App.py`: [App.py Line 92](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/main/App/App.py#L92)
+- Update your MySQL user credentials inside `App.py`:
+https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/ead2179529b24b931d1ecf4832da37836bc37956/App/App.py#L92
 
 ---
 
@@ -126,7 +127,46 @@ streamlit run App.py
 
 ---
 
-## **Contributing 🤝:**
+## 👀 Preview 
+
+### Client Side
+
+**Main Screen**
+
+![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/ead2179529b24b931d1ecf4832da37836bc37956/Screenshots/Screenshot%202024-05-10%20140059.png)
+
+**Resume Analysis**
+
+![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/ead2179529b24b931d1ecf4832da37836bc37956/Screenshots/Screenshot%202024-05-10%20140338.png)
+
+**Skill Recommendation**
+
+![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/ead2179529b24b931d1ecf4832da37836bc37956/Screenshots/Screenshot%202024-05-10%20140400.png)
+
+**Course Recommendation**
+
+![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/ead2179529b24b931d1ecf4832da37836bc37956/Screenshots/Screenshot%202024-05-10%20140420.png)
+
+**Tips and Overall Score**
+
+![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/ead2179529b24b931d1ecf4832da37836bc37956/Screenshots/Screenshot%202024-05-10%20140434.png)
+![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/ead2179529b24b931d1ecf4832da37836bc37956/Screenshots/Screenshot%202024-05-10%20140455.png)
+
+**Feedback Form**
+
+![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/ead2179529b24b931d1ecf4832da37836bc37956/Screenshots/Screenshot%202024-05-28%20112707.png)
+
+### Admin
+
+**Admin Login**
+
+![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/ead2179529b24b931d1ecf4832da37836bc37956/Screenshots/Screenshot%202024-05-10%20140533.png)
+
+**User Count and Data**
+
+![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/ead2179529b24b931d1ecf4832da37836bc37956/Screenshots/Screenshot%202024-05-10%20140826.png)
+
+## 🤝 Contributing
 Contributions to the project are welcome! Whether it's improving the model's performance, adding new features, or optimizing the code, feel free to submit pull requests.
 
 ---
