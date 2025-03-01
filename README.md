@@ -62,7 +62,7 @@ Make sure the following are installed for smooth setup:
 3. **Visual Studio Code** (Recommended IDE) ➡️ [Download VS Code](https://code.visualstudio.com/Download)
 4. **Visual Studio Build Tools for C++** ➡️ [Download Build Tools](https://aka.ms/vs/17/release/vs_BuildTools.exe)
 
-## ⚙️ Setup & Installation Guide
+## Setup & Installation Guide ⚙️
 
 ### Clone the Repository
 
