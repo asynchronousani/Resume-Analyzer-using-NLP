@@ -2,8 +2,6 @@
 
 Welcome to **AI Resume Analyzer**, a powerful tool that uses **Natural Language Processing (NLP)** to extract valuable insights from resumes. It identifies **key skills, experience, and personal details**, then categorizes them into relevant sectors. Using **keyword matching and predictive analysis**, the tool offers **personalized recommendations, career insights, and analytical reports** for both applicants and recruiters.
 
----
-
 ## 🌐 Tech Stack
 
 | Component     | Technologies Used                        |
@@ -12,8 +10,6 @@ Welcome to **AI Resume Analyzer**, a powerful tool that uses **Natural Language 
 | **Backend**     | Python |
 | **Database**    | MySQL |
 | **Modules**      | pandas, pyresparser, pdfminer3, Plotly, NLTK |
-
----
 
 ## ✨ Key Features
 
@@ -34,8 +30,6 @@ Welcome to **AI Resume Analyzer**, a powerful tool that uses **Natural Language 
   - Overall Resume Score
   - Curated Interview & Resume Tips Videos
 
----
-
 ### 🧑‍💼 Admin Dashboard
 
 - **Manage All Applicant Data**  
@@ -52,16 +46,12 @@ Welcome to **AI Resume Analyzer**, a powerful tool that uses **Natural Language 
   - Resume Scores
   - User Count (Overall & Location-based: City, State, Country)
 
----
-
 ### 📝 Feedback System
 
 - Collect and track user feedback
 - 5-star rating system
 - View **overall rating breakdown** with pie charts
 - Access **user comments history** for continuous improvement
-
----
 
 ## 📋 Requirements
 
@@ -71,8 +61,6 @@ Make sure the following are installed for smooth setup:
 2. **MySQL Server** ➡️ [Download MySQL](https://www.mysql.com/downloads/)
 3. **Visual Studio Code** (Recommended IDE) ➡️ [Download VS Code](https://code.visualstudio.com/Download)
 4. **Visual Studio Build Tools for C++** ➡️ [Download Build Tools](https://aka.ms/vs/17/release/vs_BuildTools.exe)
-
----
 
 ## ⚙️ Setup & Installation Guide
 
@@ -115,8 +103,6 @@ python -m spacy download en_core_web_sm
 - Update your MySQL user credentials inside `App.py`:
 https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/ead2179529b24b931d1ecf4832da37836bc37956/App/App.py#L92
 
----
-
 ### Running the Application
 
 Ensure the virtual environment is activated and your working directory is inside `App`.
@@ -124,8 +110,6 @@ Ensure the virtual environment is activated and your working directory is inside
 ```bash
 streamlit run App.py
 ```
-
----
 
 ## 👀 Preview 
 
@@ -168,5 +152,3 @@ streamlit run App.py
 
 ## 🤝 Contributing
 Contributions to the project are welcome! Whether it's improving the model's performance, adding new features, or optimizing the code, feel free to submit pull requests.
-
----
