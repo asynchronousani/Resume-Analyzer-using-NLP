@@ -149,5 +149,19 @@ streamlit run App.py
 
 ![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/ead2179529b24b931d1ecf4832da37836bc37956/Screenshots/Screenshot%202024-05-10%20140826.png)
 
+### Pie Chart Visualizations
+
+**Pie Chart for Predicted Field Recommendation**
+
+![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/c920328b29abeaa4cd1a6b713b692da8048e878a/Screenshots/Screenshot%202024-05-10%20140847.png)
+
+**Pie Chart for User's Experienced Level**
+
+![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/c920328b29abeaa4cd1a6b713b692da8048e878a/Screenshots/Screenshot%202024-05-10%20140904.png)
+
+**Pie Chart for Resume Score**
+
+![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/c920328b29abeaa4cd1a6b713b692da8048e878a/Screenshots/Screenshot%202024-05-10%20140921.png)
+
 ## Contributing 🤝
 Contributions to the project are welcome! Whether it's improving the model's performance, adding new features, or optimizing the code, feel free to submit pull requests.
