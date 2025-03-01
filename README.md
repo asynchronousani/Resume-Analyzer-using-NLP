@@ -114,7 +114,7 @@ python -m spacy download en_core_web_sm
     ```cv```
 
 - Update your MySQL **user credentials** inside:  
-    `App.py` (look for the relevant section around **Line 50**).
+    `App.py` (look for the relevant section around **Line 92**).
 
 ---
 
