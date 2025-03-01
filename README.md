@@ -1,8 +1,8 @@
-# 🚀 AI Resume Analyzer using NLP 📄
+# AI Resume Analyzer using NLP 🚀📄
 
 Welcome to **AI Resume Analyzer**, a powerful tool that uses **Natural Language Processing (NLP)** to extract valuable insights from resumes. It identifies **key skills, experience, and personal details**, then categorizes them into relevant sectors. Using **keyword matching and predictive analysis**, the tool offers **personalized recommendations, career insights, and analytical reports** for both applicants and recruiters.
 
-## 🌐 Tech Stack
+## Tech Stack 🌐
 
 | Component     | Technologies Used                        |
 |----------------|---------------------------------|
@@ -11,9 +11,9 @@ Welcome to **AI Resume Analyzer**, a powerful tool that uses **Natural Language 
 | **Database**    | MySQL |
 | **Modules**      | pandas, pyresparser, pdfminer3, Plotly, NLTK |
 
-## ✨ Key Features
+## Key Features ✨
 
-### 🧑‍💻 Applicant Features
+### Applicant Features 🧑‍💻
 
 - **Automatic Resume Parsing**  
   Extracts:
@@ -30,7 +30,7 @@ Welcome to **AI Resume Analyzer**, a powerful tool that uses **Natural Language 
   - Overall Resume Score
   - Curated Interview & Resume Tips Videos
 
-### 🧑‍💼 Admin Dashboard
+### Admin Dashboard 🧑‍💼
 
 - **Manage All Applicant Data**  
   - View data in a user-friendly table
@@ -46,14 +46,14 @@ Welcome to **AI Resume Analyzer**, a powerful tool that uses **Natural Language 
   - Resume Scores
   - User Count (Overall & Location-based: City, State, Country)
 
-### 📝 Feedback System
+### Feedback System 📝
 
 - Collect and track user feedback
 - 5-star rating system
 - View **overall rating breakdown** with pie charts
 - Access **user comments history** for continuous improvement
 
-## 📋 Requirements
+## Requirements 📋
 
 Make sure the following are installed for smooth setup:
 
@@ -67,7 +67,7 @@ Make sure the following are installed for smooth setup:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
+git clone https://github.com/asynchronousani/Resume-Analyzer-using-NLP.git
 ```
 
 ### Create & Activate Virtual Environment
@@ -111,7 +111,7 @@ Ensure the virtual environment is activated and your working directory is inside
 streamlit run App.py
 ```
 
-## 👀 Preview 
+## Preview 👀
 
 ### Client Side
 
@@ -150,5 +150,5 @@ streamlit run App.py
 
 ![Screenshot](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/ead2179529b24b931d1ecf4832da37836bc37956/Screenshots/Screenshot%202024-05-10%20140826.png)
 
-## 🤝 Contributing
+## Contributing 🤝
 Contributions to the project are welcome! Whether it's improving the model's performance, adding new features, or optimizing the code, feel free to submit pull requests.
