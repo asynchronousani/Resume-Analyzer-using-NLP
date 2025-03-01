@@ -110,11 +110,9 @@ python -m spacy download en_core_web_sm
 
 ### Database Setup
 
-- Create a **MySQL Database** named:  
-    ```cv```
+- Create a **MySQL Database** named ```cv```
 
-- Update your MySQL **user credentials** inside ```App.py```:
-[App.py Line 92] (https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/main/App/App.py#L92)
+- Update your MySQL user credentials inside `App.py`: [App.py Line 92](https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/main/App/App.py#L92)
 
 ---
 
