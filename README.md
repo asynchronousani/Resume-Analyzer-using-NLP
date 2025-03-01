@@ -73,7 +73,6 @@ git clone https://github.com/asynchronousani/Resume-Analyzer-using-NLP.git
 ### Create & Activate Virtual Environment
 
 ```bash
-cd AI-Resume-Analyzer
 
 # Create virtual environment
 python -m venv venvapp
