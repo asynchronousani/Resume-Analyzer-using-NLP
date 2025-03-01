@@ -113,8 +113,8 @@ python -m spacy download en_core_web_sm
 - Create a **MySQL Database** named:  
     ```cv```
 
-- Update your MySQL **user credentials** inside:  
-    `App.py` (look for the relevant section around **Line 92**).
+- Update your MySQL **user credentials** inside ```App.py```:
+[App.py Line 92] (https://github.com/asynchronousani/Resume-Analyzer-using-NLP/blob/main/App/App.py#L92)
 
 ---
 
@@ -128,15 +128,7 @@ streamlit run App.py
 
 ---
 
-## 🤝 Contribute & Feedback
-
-We welcome contributions and feedback to improve this project!  
-If you encounter issues or have feature requests, feel free to open an **Issue** or **Pull Request**.
-
----
-
-## 📬 Contact
-
-For further queries, feel free to reach out or connect with me on my **Email**.
+## **Contributing 🤝:**
+Contributions to the project are welcome! Whether it's improving the model's performance, adding new features, or optimizing the code, feel free to submit pull requests.
 
 ---
